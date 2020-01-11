@@ -5,4 +5,6 @@ Framework PHP :
   - CodeIgniter
   - Zend
 
+PHP dapat digunakan untuk di android juga
+
 Gunakan PHP sebagai bahasa pemrograman favorit kamu
